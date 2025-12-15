@@ -1,4 +1,4 @@
-# Weighted Voting with Disagreement-based Sampling (WVDS)
+# Weighted Voting with Disagreement-based Random Sampling (WVDRS)
 This repository contains the implementation of the Weighted Voting with Disagreement-based Random Sampling (WVDRS) algorithm, which enhances LLM-based query processing over relational databases.
 ## Datasets
 <ol>
